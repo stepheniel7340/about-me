@@ -1,18 +1,19 @@
-Stephenie Lin
+**##Stephenie Lin**
 
-stepheniel7340@hstat.org
+**###_stepheniel7340@hstat.org_**
 
-HSTAT
+**##HSTAT**
 
-I grew up in Brooklyn
+<span style="font-family:Georgia; font-size:4em;">I grew up in Brooklyn</span>
 
-Schedule
-Algebra 2
-SEP
-AP Eng Lang
-AP US History
-Lunch
-Physics
-Spanish
-PE
+
+Schedule  
+Algebra 2  
+SEP  
+AP Eng Lang  
+AP US History   
+Lunch   
+Physics  
+Spanish  
+PE  
 
