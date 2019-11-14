@@ -6,7 +6,8 @@
 ____
 I grew up in Brooklyn
 * I love animals
-* Watching Netflix
+* Watching [Netflix](https://www.netflix.com/)
+
 
 Schedule 
 1. Algebra 2 
