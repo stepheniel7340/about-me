@@ -1,8 +1,8 @@
-## **Stephenie Lin**
+Stephenie Lin
 
-#### **_stepheniel7340@hstat.org_**
+stepheniel7340@hstat.org
 
-### **HSTAT**
+HSTAT
 
 I grew up in Brooklyn
 
