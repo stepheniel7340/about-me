@@ -1,19 +1,20 @@
-Stephenie Lin
+## **Stephenie Lin**
 
-stepheniel7340@hstat.org
+#### **_stepheniel7340@hstat.org_**
 
-HSTAT
-
+### **HSTAT**
+____
 I grew up in Brooklyn
+* I love animals
+* Watching Netflix
 
-
-Schedule  
-Algebra 2  
-SEP  
-AP Eng Lang  
-AP US History   
-Lunch   
-Physics  
-Spanish  
-PE  
+Schedule 
+1. Algebra 2 
+2. SEP 
+3. AP Eng Lang 
+4. AP US History 
+5. Lunch 
+6. Physics 
+7. Spanish 
+8. PE 
 
