@@ -17,4 +17,3 @@ I grew up in Brooklyn
 6. Physics
 7. Spanish
 8. PE
-
