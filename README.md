@@ -8,7 +8,7 @@ I grew up in Brooklyn
 * I love animals
 * Watching [Netflix](https://www.netflix.com/)
 
-Schedule
+**Schedule**
 1. Algebra 2
 2. SEP
 3. AP Eng Lang
